@@ -9,19 +9,18 @@ The following operations was automated by this bot :
 The bot automatically logs in to the Website with credentials that is stored securely in Ui Path Orchestrator
 
 ## Login Credentials 
-can be fount in the reference document included in the project submission.
+Can be fount in the reference document included in the project submission.
 
 ## Gathering test data
-Once logged in the bot gathers data toe be tested from a specified excel file.
+Once logged in, the bot gathers data to be tested from a specified excel file.
 
 ## Using the dataset to test CRUD operations
 The bot then loops through each record in the excel file and test all CRUD operations on the website one by one.
 
 
 ## Documenting results
-For each operation the bot documents whether the current task was completed successfully or not by indicating in the Test Results sheet the results for each operation.
+For each operation the bot documents whether the current task was completed successfully or not by indicating in the Test Results sheet the results for each operation. The user then can view the results of the test by simply looking at the Test Results.
 
-Thus the user can view the results of the test by simply looking at the Test Results sheet.
 
 ## Deployment
 Finnaly the project can be deployed to UI Path Orchastrator to be used in production.
