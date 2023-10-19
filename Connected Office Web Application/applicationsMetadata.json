@@ -1,0 +1,18 @@
+﻿{
+  "Version": "1.0",
+  "Metadata": [
+    {
+      "ApplicationType": "WindowsApplication",
+      "ExecutablePath": {
+        "Value": "excel.exe",
+        "IsExpression": false
+      },
+      "Url": null,
+      "Arguments": {
+        "Value": "c:\\users\\mulde\\appdata\\local\\temp\\microsoftedgedownloads\\a893f282-9eec-4207-97f1-9e7eb55db08f\\cmpg323 ecopower logistics data.xlsx",
+        "IsExpression": false
+      },
+      "Version": null
+    }
+  ]
+}
